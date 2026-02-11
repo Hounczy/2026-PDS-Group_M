@@ -1,3 +1,15 @@
+commit 13451c3f6fe79df4b37803e5024426e031ddb584
+Author: Maks Wozniak <makswozniak@MacBook-Pro-m.local>
+Date:   Wed Feb 11 11:50:24 2026 +0100
+
+    added my name
+
+commit ee5138cdeb361f6f5f1d0b904acd0a54428bc598
+Author: Hounczy <szhuni1234@gmail.com>
+Date:   Wed Feb 11 11:39:45 2026 +0100
+
+    log file initiated
+
 commit 28ac59f3502108a852610c87fbc629f6ba408db8
 Author: Hounczy <szhuni1234@gmail.com>
 Date:   Wed Feb 11 11:38:32 2026 +0100

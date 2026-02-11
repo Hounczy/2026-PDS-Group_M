@@ -1,0 +1,23 @@
+commit 28ac59f3502108a852610c87fbc629f6ba408db8
+Author: Hounczy <szhuni1234@gmail.com>
+Date:   Wed Feb 11 11:38:32 2026 +0100
+
+    gitlog file created
+
+commit e72e4bf082781f0668d8ced2e5b3f2bd7ff7dc31
+Author: Marcus Bülow Pedersen <whg295@alumni.ku.dk>
+Date:   Wed Feb 11 11:34:28 2026 +0100
+
+    Added name 'Marcus Pedersen' to README file
+
+commit e253ecd1e23aa1ab37a7e3a90dcf1bb17f1c85b1
+Author: Hounczy <szhuni1234@gmail.com>
+Date:   Wed Feb 11 11:25:22 2026 +0100
+
+    Added Hunor as collaborator
+
+commit bf1564376304c72eaec207b82cdea8b530bdcb18
+Author: Hunor Szabo <szhuni1234@gmail.com>
+Date:   Wed Feb 11 11:13:57 2026 +0100
+
+    Initial commit

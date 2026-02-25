@@ -1,3 +1,45 @@
+commit b48df6d123c8bc0830b0cf436d2396be1bd45368
+Author: damw <wardziun@gmail.com>
+Date:   Wed Feb 25 11:30:12 2026 +0100
+
+    Combined annotation fixed
+
+commit da3b0a2ef84d652df25cd9430de271703d176722
+Author: Hounczy <szhuni1234@gmail.com>
+Date:   Wed Feb 25 11:23:01 2026 +0100
+
+    combined annotations uploaded
+
+commit ce22754c2a2e268d034bc490e6b7b45116cabd78
+Author: Marcus Bülow Pedersen <whg295@alumni.ku.dk>
+Date:   Wed Feb 25 11:11:13 2026 +0100
+
+    Add result folder
+
+commit c003de16a585a9fc9e5d221a784e0983ad93c0ad
+Author: Marcus Bülow Pedersen <whg295@alumni.ku.dk>
+Date:   Wed Feb 25 10:57:10 2026 +0100
+
+    Add src folder with test file
+
+commit c53b184a9974a48ce307f580eebf1fbd77e529e5
+Author: Marcus Bülow Pedersen <whg295@alumni.ku.dk>
+Date:   Wed Feb 25 10:53:16 2026 +0100
+
+    Add data folder with test file
+
+commit 1632f3cad6645724fcbfbdadda3db2782f271450
+Author: damw <wardziun@gmail.com>
+Date:   Wed Feb 25 10:22:28 2026 +0100
+
+    Added name
+
+commit 6cc50fa346183693c83c125581ce997ae3f973d7
+Author: Simon Friland <sifriland@gmail.com>
+Date:   Tue Feb 17 13:02:19 2026 +0100
+
+    Updated gitlog file by Simon
+
 commit 6489c9132f44c66e7dba1a11c1928a25e16dd2ed
 Author: Simon Friland <sifriland@gmail.com>
 Date:   Tue Feb 17 12:57:21 2026 +0100

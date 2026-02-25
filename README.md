@@ -1,3 +1,3 @@
 # PDS_Group_M
 This is the project group M for Projects in Data Science, ITU
-Collaborators: Hunor Szabo, Marcus Pedersen, Maksymilian Woźniak, Simon Friland
+Collaborators: Hunor Szabo, Marcus Pedersen, Maksymilian Woźniak, Simon Friland, Damian Wardziński
